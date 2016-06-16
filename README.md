@@ -1,4 +1,4 @@
-# Sudoku-AI-C-
+# Sudoku-AI
 
 This is a sudoku solver in C++
 
