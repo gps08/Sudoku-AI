@@ -50,3 +50,4 @@ And the sample output for the above input is something like this:
 
 
 The program has run 671003 times
+Will add gui to it soon ... :)
